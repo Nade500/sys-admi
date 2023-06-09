@@ -1,0 +1,17 @@
+F:\Новая папка (555555555)\2.3-2.7\2.3-2.7\bin\Debug\net6.0-windows\2.3-2.7.exe
+F:\Новая папка (555555555)\2.3-2.7\2.3-2.7\bin\Debug\net6.0-windows\2.3-2.7.deps.json
+F:\Новая папка (555555555)\2.3-2.7\2.3-2.7\bin\Debug\net6.0-windows\2.3-2.7.runtimeconfig.json
+F:\Новая папка (555555555)\2.3-2.7\2.3-2.7\bin\Debug\net6.0-windows\2.3-2.7.dll
+F:\Новая папка (555555555)\2.3-2.7\2.3-2.7\bin\Debug\net6.0-windows\2.3-2.7.pdb
+F:\Новая папка (555555555)\2.3-2.7\2.3-2.7\obj\Debug\net6.0-windows\2.3-2.7.csproj.AssemblyReference.cache
+F:\Новая папка (555555555)\2.3-2.7\2.3-2.7\obj\Debug\net6.0-windows\_2._3_2._7.Form1.resources
+F:\Новая папка (555555555)\2.3-2.7\2.3-2.7\obj\Debug\net6.0-windows\2.3-2.7.csproj.GenerateResource.cache
+F:\Новая папка (555555555)\2.3-2.7\2.3-2.7\obj\Debug\net6.0-windows\2.3-2.7.GeneratedMSBuildEditorConfig.editorconfig
+F:\Новая папка (555555555)\2.3-2.7\2.3-2.7\obj\Debug\net6.0-windows\2.3-2.7.AssemblyInfoInputs.cache
+F:\Новая папка (555555555)\2.3-2.7\2.3-2.7\obj\Debug\net6.0-windows\2.3-2.7.AssemblyInfo.cs
+F:\Новая папка (555555555)\2.3-2.7\2.3-2.7\obj\Debug\net6.0-windows\2.3-2.7.csproj.CoreCompileInputs.cache
+F:\Новая папка (555555555)\2.3-2.7\2.3-2.7\obj\Debug\net6.0-windows\2.3-2.7.dll
+F:\Новая папка (555555555)\2.3-2.7\2.3-2.7\obj\Debug\net6.0-windows\refint\2.3-2.7.dll
+F:\Новая папка (555555555)\2.3-2.7\2.3-2.7\obj\Debug\net6.0-windows\2.3-2.7.pdb
+F:\Новая папка (555555555)\2.3-2.7\2.3-2.7\obj\Debug\net6.0-windows\2.3-2.7.genruntimeconfig.cache
+F:\Новая папка (555555555)\2.3-2.7\2.3-2.7\obj\Debug\net6.0-windows\ref\2.3-2.7.dll
